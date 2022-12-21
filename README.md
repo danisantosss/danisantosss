@@ -1,6 +1,6 @@
 <h1 align="center"> Olá mundo! </h1>
 
-### Sobre mim
+### Sobre mim 👋
 - Meu nome é Daniel Santos, tenho 18 anos e moro em Joinville, Santa Catarina;
 - Finalizei o ensino médio em 2022 no Instituto Federal de Santa Catarina, cursando técnico em mecânica;
 - Finalizei o curso "Novos Talentos em TI" na Univille, tendo uma carga horária de 600 horas em programação Fullstack;
