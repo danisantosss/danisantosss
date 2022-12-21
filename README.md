@@ -5,6 +5,7 @@
 - Finalizei o ensino médio em 2022 no Instituto Federal de Santa Catarina, cursando técnico em mecânica;
 - Finalizei o curso "Novos Talentos em TI" na Univille, tendo uma carga horária de 600 horas em programação Fullstack;
 - Atualmente matriculado na Universidade da Católica de SC, em Engenharia de Software;
+- Sou apaixonado por programação e tenho o desejo de trabalhar nessa área.
 
 
 <!--
