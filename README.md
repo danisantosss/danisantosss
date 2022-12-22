@@ -8,8 +8,9 @@
 >- 🖤 Sou apaixonado por programação e tenho o desejo de trabalhar nessa área.
 
 <div align="center">
-  <img height="180em" src=https://github-readme-stats.vercel.app/api?username=danisantosss&show_icons=true&theme=light&count_private=true"/>
-  <img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=danisantosss&layout=compact&langs_count=7&theme=light"/>
+  <a href="https://github.com/danisantosss">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danisantosss&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danisantosss&layout=compact&langs_count=7&theme=light"/>
 </div>
 
 <div align="center">
