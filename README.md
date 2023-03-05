@@ -1,4 +1,4 @@
-<h1 align="center"> Olá mundo! 👋 </h1>
+<h1 align="center"> Olá mundo! </h1>
 
 ### Sobre mim
 >- 😀 Meu nome é Daniel Santos, tenho 18 anos e moro em Joinville, Santa Catarina;
