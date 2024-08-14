@@ -5,7 +5,7 @@
 >- 👨‍🎓 Finalizei o ensino médio em 2022 no Instituto Federal de Santa Catarina, cursando técnico em mecânica;
 >- 👨‍💻 Finalizei um curso Full-Stack na Univille, tendo uma carga horária de 600 horas com foco em Java, HTML, CSS e Javascript;
 >- 📚 Atualmente matriculado na Universidade da Católica de SC, em Engenharia de Software;
->- 🖤 Desenvolvedor Full-Stack;
+>- 🖤 Desenvolvedor Java;
 
 <div align="center">
   <a href="https://github.com/danisantosss">
