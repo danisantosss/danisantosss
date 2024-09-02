@@ -23,6 +23,6 @@
 
 <div align="center">
 
-  ![snake gif](https://github.com/danisantosss/danisantosss/blob/output/github-contribution-grid-snake.gif)
+<!--  ![snake gif](https://github.com/danisantosss/danisantosss/blob/output/github-contribution-grid-snake.gif) -->
   
 </div>
