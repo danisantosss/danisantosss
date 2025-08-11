@@ -16,7 +16,7 @@
 <div align="center">
   
 ## Stacks
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,react,html,css,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,react,tailwind,html,css)](https://skillicons.dev)
 
 </div>
 
