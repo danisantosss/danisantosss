@@ -4,7 +4,7 @@
 >- 😀 Meu nome é Daniel Santos, tenho 21 anos e moro em Joinville, Santa Catarina;
 >- 👨‍🎓 Finalizei o ensino médio em 2022 no Instituto Federal de Santa Catarina, cursando técnico em mecânica;
 >- 👨‍💻 Finalizei um curso Full-Stack na Univille, tendo uma carga horária de 600 horas com foco em Java, Spring, HTML e CSS;
->- 📚 Atualmente matriculado no 5º período da Universidade Católica de SC, em Engenharia de Software;
+>- 📚 Atualmente matriculado no 6º período da Universidade Católica de SC, em Engenharia de Software;
 >- 🖤 Desenvolvedor Java;
 
 <div align="center">
