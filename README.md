@@ -1,33 +1,28 @@
-<h1 align="center"> Olá mundo! </h1>
+# Hi, I'm Daniel
 
-### Sobre mim
->- 😀 Meu nome é Daniel Santos, tenho 22 anos e moro em Joinville, Santa Catarina;
->- 👨‍🎓 Finalizei o ensino médio em 2022 no Instituto Federal de Santa Catarina, cursando técnico em mecânica;
->- 👨‍💻 Finalizei um curso Full-Stack na Univille, tendo uma carga horária de 600 horas com foco em Java, Spring, HTML e CSS;
->- 📚 Atualmente matriculado no 6º período da Universidade Católica de SC, em Engenharia de Software;
->- 🖤 Desenvolvedor Java;
+**Software Engineer at [SoftExpert](https://www.softexpert.com) · Java backend · Joinville, Brazil**
 
-<div align="center">
-  <a href="https://github.com/danisantosss">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danisantosss&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danisantosss&layout=compact&langs_count=7&theme=white"/>
-</div>
+I build and maintain features for SoftExpert Suite, an enterprise platform for governance, compliance and process management, working mostly with **Java, PostgreSQL and Docker**. I also fix production issues escalated by customer support and write automated tests that run in CI on every pull request.
 
-<div align="center">
-  
-## Stacks
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,react,tailwind,html,css)](https://skillicons.dev)
+Before that, I built REST APIs with **Spring Boot** and frontends with **React** and **TypeScript**.
 
-</div>
+- 💼 Software Engineer I at SoftExpert
+- 🎓 B.Sc. in Software Engineering, Católica SC (Dec 2026)
+- 🌎 Portuguese (native) · English (full professional)
 
-<div align="center">
-  
-## Contato
-  <a href = "mailto:danisantos5075@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"         target="_blank"></a>
-  <a href="https://www.linkedin.com/in/daniel-santos-650093243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/danisantosss__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
-</div>
+## Tech stack
+
+[![Tech stack](https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,git,ts,react)](https://skillicons.dev)
+
+## Projects
+
+- **[Orienta Saúde](https://github.com/danisantosss/Orienta-Saude)**: capstone project (TCC) for my Software Engineering degree, built with Java.
+<!-- Add one line on what Orienta Saúde does and its stack. When your Spring Boot project is ready, put it first in this list. -->
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-santos-650093243/)
+[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danisantos5075@gmail.com)
 
 
 <div align="center">
